@@ -1,7 +1,3 @@
-//تغير الحقوق ورع #هارلي لايت منظمة كيميت
-//الكود تابع لي بوت لايت 
-//جروب البوت https://chat.whatsapp.com/K0sD98quiskGh1k6Lz4viX
-
 const dir = [
 'https://telegra.ph/file/2d692d315587805dde1a9.jpg',
 'https://telegra.ph/file/e51a3c070b031ccefb801.jpg',
